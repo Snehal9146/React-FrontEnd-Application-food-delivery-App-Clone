@@ -51,9 +51,10 @@ Loginpage:
 ![image alt](https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(368).png?raw=true)
 
 Home Page:
-![image alt]{https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(370).png?raw=true}
-Food Items Page:
+![image alt]{https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(370).png?raw=true)
 
+Food Items Page:
+![image alt](https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(371).png?raw=true)
 Cart Page:
 
 ## Technologies Used
