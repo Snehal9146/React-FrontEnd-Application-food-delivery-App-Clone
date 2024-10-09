@@ -50,6 +50,8 @@ Add your screenshots below to showcase the app's different pages:
 Loginpage: 
 ![image alt](https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(368).png?raw=true)
 
+Home Page:
+![image alt]{https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(370).png?raw=true}
 Food Items Page:
 
 Cart Page:
