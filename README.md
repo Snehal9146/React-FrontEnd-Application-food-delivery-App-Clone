@@ -51,11 +51,13 @@ Loginpage:
 ![image alt](https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(368).png?raw=true)
 
 Home Page:
-![image alt]{https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(370).png?raw=true)
+![image alt](https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(370).png?raw=true)
 
 Food Items Page:
 ![image alt](https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(371).png?raw=true)
+
 Cart Page:
+![image alt](https://github.com/Snehal9146/React-FrontEnd-Application-food-delivery-App-Clone/blob/main/Screenshot%20(376).png?raw=true)
 
 ## Technologies Used
 **React:** JavaScript framework for building the user interface.
